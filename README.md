@@ -35,8 +35,8 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/lrclib-api.git
-cd lrclib-api
+git clone https://github.com/RiiiCODE/SpotifyLyricsApi.git
+cd SpotifyLyricsApi
 ```
 
 2. **Install dependencies**
@@ -336,6 +336,8 @@ For questions or support, please open an issue on GitHub.
 ---
 
 <div align="center">
+
+### Don't forget to fork and ⭐ for this repository hehe 😁
 
 ### Made with ❤️ by RiiCODE
 
